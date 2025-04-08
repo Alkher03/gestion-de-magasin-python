@@ -1,0 +1,14 @@
+
+=== RAPPORT D'ANALYSE ===
+Date: 2025-04-06 00:03
+
+=== INDICATEURS CLÉS ===
+• CA Total: 49,898.97 € (32,731,728 FCFA)
+• Clients uniques: 2.0
+• Panier moyen: 997.98 €
+
+=== TOP 5 PRODUITS ===
+            produit  quantite    ca_eur        ca_cfa  part_marche
+          Téléphone        45 26,999.55 17,710,624.82        54.11
+Ordinateur portable        19 18,999.81 12,463,115.37        38.08
+       Casque audio        39  3,899.61  2,557,988.18         7.82
